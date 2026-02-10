@@ -2,14 +2,14 @@ ArAM: Articulating Assumptions in Machine Learning
 ==================================================
 
 .. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXX.svg
-   :target: https://doi.org/10.5281/zenodo.XXXXXX
-   :alt: DOI
+  :target: https://doi.org/10.5281/zenodo.XXXXXX
+  :alt: DOI
 
-.. image:: https://img.shields.io/badge/Citation-CHI'25-blue
-   :target: https://doi.org/10.1145/3706598.3713958
-   :alt: Citation
-
-**ArAM** (**Ar**ticulating **A**ssumptions in **M**L) is a methodological framework designed to support Machine Learning practitioners and researchers in explicating implicit assumptions in their workflows.
+.. image:: https://img.shields.io/badge/Citation-CHI%2725-blue.svg
+  :target: https://doi.org/10.1145/3706598.3713958
+  :alt: Citation
+  
+**ArAM** (**Ar**\ ticulating **A**\ ssumptions in **M**\ L) is a methodological framework designed to support Machine Learning practitioners and researchers in explicating implicit assumptions in their workflows.
 
 About
 -----
@@ -18,7 +18,7 @@ About
 In current ML workflows, assumptions are often constructed independently or lurking within technical processes, handled reactively rather than reflectively, and recorded nebulously. This lack of clear conceptualization leads to confusion, where the trajectory of an assumption often begets *more* assumptions and uncertainties. While many toolkits exist, structured approaches to explicitly articulate these assumptions are rare and the process is often taken for granted.
 
 **Approach:**
-ArAM simplifies assumption inquiry by treating every technical decision as an *argument* composed of two parts: the target and premises. By separating the *Target* from its *Premises**, ArAM helps you clearly identify *why* a decision was made and *how* it was justified.
+ArAM simplifies assumption inquiry by treating every technical decision as an *argument* composed of two parts: the target and premises. By separating the *Target* from its *Premises*, ArAM helps you clearly identify *why* a decision was made and *how* it was justified.
 
 * *The Target:* The goal or conclusion you are trying to achieve (e.g., *"We will use Dataset X"*).
 * *The Premises (Assumptions):* The reasons that support that goal (e.g., *"Dataset X is representative"*).
@@ -50,16 +50,18 @@ If you use this framework in your research or documentation, please cite the fol
 
 **BibTeX:**
 
-    @inproceedings{mothilal2025assumptions,
-        author = {Mothilal, Ramaravind Kommiya and Lalani, Faisal M. and Ahmed, Syed Ishtiaque and Guha, Shion and Sultana, Sharifa},
-        title = {Talking About the Assumption in the Room},
-        booktitle = {Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems},
-        series = {CHI '25},
-        year = {2025},
-        location = {Yokohama, Japan},
-        publisher = {ACM},
-        doi = {10.1145/3706598.3713958}
-    }
+.. code-block:: bibtex
+
+   @inproceedings{mothilal2025assumptions,
+     author = {Mothilal, Ramaravind Kommiya and Lalani, Faisal M. and Ahmed, Syed Ishtiaque and Guha, Shion and Sultana, Sharifa},
+     title = {Talking About the Assumption in the Room},
+     booktitle = {Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems},
+     series = {CHI '25},
+     year = {2025},
+     location = {Yokohama, Japan},
+     publisher = {ACM},
+     doi = {10.1145/3706598.3713958}
+   }
 
 **Text:**
 Mothilal, R. K., Lalani, F. M., Ahmed, S. I., Guha, S., & Sultana, S. (2025). Talking About the Assumption in the Room. *Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI '25)*. https://doi.org/10.1145/3706598.3713958
