@@ -50,18 +50,16 @@ If you use this framework in your research or documentation, please cite the fol
 
 **BibTeX:**
 
-.. code-block:: bibtex
-
-   @inproceedings{mothilal2025assumptions,
-     author = {Mothilal, Ramaravind Kommiya and Lalani, Faisal M. and Ahmed, Syed Ishtiaque and Guha, Shion and Sultana, Sharifa},
-     title = {Talking About the Assumption in the Room},
-     booktitle = {Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems},
-     series = {CHI '25},
-     year = {2025},
-     location = {Yokohama, Japan},
-     publisher = {ACM},
-     doi = {10.1145/3706598.3713958}
-   }
+    @inproceedings{mothilal2025assumptions,
+        author = {Mothilal, Ramaravind Kommiya and Lalani, Faisal M. and Ahmed, Syed Ishtiaque and Guha, Shion and Sultana, Sharifa},
+        title = {Talking About the Assumption in the Room},
+        booktitle = {Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems},
+        series = {CHI '25},
+        year = {2025},
+        location = {Yokohama, Japan},
+        publisher = {ACM},
+        doi = {10.1145/3706598.3713958}
+    }
 
 **Text:**
 Mothilal, R. K., Lalani, F. M., Ahmed, S. I., Guha, S., & Sultana, S. (2025). Talking About the Assumption in the Room. *Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI '25)*. https://doi.org/10.1145/3706598.3713958
