@@ -1,14 +1,14 @@
-ArAM User Guide
+AsAP User Guide
 ===============
 
-This guide explains the logic behind the **ArAM Framework** and provides a worked example to demonstrate how to articulate assumptions effectively.
+This guide explains the logic behind the **AsAP Framework** and provides a worked example to demonstrate how to articulate assumptions effectively.
 
 The Logic: Premise-Target-Differentiator
 ----------------------------------------
 
 Assumptions do not exist in a vacuum; they exist as part of an **argument**. To articulate an assumption, we must distinguish between the **Premise** (the assumption itself) and the **Target** (the conclusion or goal it supports).
 
-ArAM introduces a meta-layer called the **Differentiator** to categorize how a premise relates to a target.
+AsAP introduces a meta-layer called the **Differentiator** to categorize how a premise relates to a target.
 
 The Three Differentiators
 ~~~~~~~~~~~~~~~~~~~~~~~~~
