@@ -1,4 +1,4 @@
-ArAM: Articulating Assumptions in Machine Learning
+AsAP For Articulating Assumptions in Machine Learning
 ==================================================
 
 .. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.18582385.svg
@@ -9,16 +9,16 @@ ArAM: Articulating Assumptions in Machine Learning
   :target: https://doi.org/10.1145/3706598.3713958
   :alt: Citation
   
-**ArAM** (**Ar**\ ticulating **A**\ ssumptions in **M**\ L) is a methodological framework designed to support Machine Learning practitioners and researchers in explicating implicit assumptions in their workflows.
+**AsAP** (**As**\ assumption-**A**\ s-**P**\ remise) is a methodological framework designed to support Machine Learning practitioners and researchers in articulating implicit assumptions in their workflows.
 
 About
 -----
 
 **Context:**
-In current ML workflows, assumptions are often constructed independently or lurking within technical processes, handled reactively rather than reflectively, and recorded nebulously. This lack of clear conceptualization leads to confusion, where the trajectory of an assumption often begets *more* assumptions and uncertainties. While many toolkits exist, structured approaches to explicitly articulate these assumptions are rare and the process is often taken for granted.
+In current ML workflows, assumptions are often constructed independently or lurking within technical processes, handled reactively rather than reflectively, and recorded nebulously. This lack of clear conceptualization leads to confusion, where the trajectory of an assumption often begets *more* assumptions and uncertainties. While many toolkits exist, structured approaches to explicitly articulate these assumptions are rare, and the process is often taken for granted.
 
 **Approach:**
-ArAM simplifies assumption inquiry by treating every technical decision as an *argument* composed of two parts: the target and premises. By separating the *Target* from its *Premises*, ArAM helps you clearly identify *why* a decision was made and *how* it was justified.
+AsAP disambiguates assumption inquiry by treating every technical decision as an *argument* composed of two parts: the target and premises. By separating the *Target* from its *Premises*, AsAP helps you clearly identify *why* a decision was made and *how* it was justified.
 
 * *The Target:* The goal or conclusion you are trying to achieve (e.g., *"We will use Dataset X"*).
 * *The Premises (Assumptions):* The reasons that support that goal (e.g., *"Dataset X is representative"*).
@@ -33,7 +33,7 @@ To operationalize this, the framework introduces a meta-layer called the *differ
 How to Use
 ----------
 
-This repository contains two key documents to help you apply ArAM:
+This repository contains two key documents to help you apply AsAP:
 
 1.  **guide.rst**: A detailed explanation of the framework with a real-world example from the PaLM 2 technical report.
 2.  **worksheet.rst**: A blank template you can copy to articulate assumptions for your own ML projects.
