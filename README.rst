@@ -1,7 +1,7 @@
 Assumption-As-Premise (AsAP): Articulating Assumptions in Machine Learning
 ==================================================
 
-.. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.18637042.svg
+.. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.18582384.svg
   :target: https://doi.org/10.5281/zenodo.18637042 
   :alt: DOI
 
@@ -46,7 +46,7 @@ This repository contains two key documents to help you apply AsAP:
 Citation
 --------
 
-If you use this framework in your research or documentation, please cite the following paper:
+If you use this framework in your research or documentation, please cite the primary paper:
 
 **BibTeX:**
 
@@ -63,5 +63,20 @@ If you use this framework in your research or documentation, please cite the fol
      doi = {10.1145/3706598.3713958}
    }
 
-**Text:**
-Mothilal, R. K., Lalani, F. M., Ahmed, S. I., Guha, S., & Sultana, S. (2025). Talking About the Assumption in the Room. *Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI '25)*. https://doi.org/10.1145/3706598.3713958
+If you use this **codebase** or the **AsAP worksheet** directly, please *also* cite this artifact:
+
+.. code-block:: bibtex
+
+   @software{asap_tool_2025,
+     author = {Mothilal, Ramaravind Kommiya and Lalani, Faisal M. and Ahmed, Syed Ishtiaque and Guha, Shion and Sultana, Sharifa},
+     title  = {Assumption-As-Premise (AsAP): Articulating Assumptions in Machine Learning},
+     year   = {2025},
+     publisher = {Zenodo},
+     doi    = {10.5281/zenodo.18582384},
+     url    = {https://doi.org/10.5281/zenodo.18582384}
+   }
+
+**Text Citation:**
+
+* **Paper:** Mothilal, R. K., Lalani, F. M., Ahmed, S. I., Guha, S., & Sultana, S. (2025). Talking About the Assumption in the Room. *Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI '25)*. https://doi.org/10.1145/3706598.3713958
+* **Artifact:** Mothilal, R. K., Lalani, F. M., Ahmed, S. I., Guha, S., & Sultana, S. (2025). *Assumption-As-Premise (AsAP): Articulating Assumptions in Machine Learning* [software]. Zenodo. https://doi.org/10.5281/zenodo.18582384
